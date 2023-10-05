@@ -1,0 +1,25 @@
+button{
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+}
+
+.container{
+    width: 250px;
+    padding: 25px;
+    border: 3px solid grey;
+    margin: auto;
+}
+
+input{
+    display: block;
+    width: 90%;
+    margin: auto;
+    font-size: 24px;
+    text-align: right;
+}
+
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
